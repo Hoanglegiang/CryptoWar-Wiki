@@ -26,7 +26,7 @@ If one pool of xBlade is insufficient for the transaction, CryptoWar will take x
 
 ## Minting Characters
 
-Characters are one of the two main NFTs currently available in CryptoWarharacters are necessary to perform combat in CryptoWar and only increase in value as the player continues to win fights.
+Characters are one of the two main NFTs currently available in CryptoWar characters are necessary to perform combat in CryptoWar and only increase in value as the player continues to win fights.
 
 All of the xBlade spent minting characters goes directly into the contract used to give fight payouts.
 
