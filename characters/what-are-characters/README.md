@@ -6,7 +6,7 @@ Characters are one of the main NFTs the player can possess in CryptoWar.
 
 Each account can hold a maximum of four characters at any given time.
 
-The price to mint characters is displayed on the button in the Plaza tab. All Xweapon spent on minting characters gets sent to the contract that handles fight payouts.
+The price to mint characters is displayed on the button in the Plaza tab. All xBlade spent on minting characters gets sent to the contract that handles fight payouts.
 
 Each character starts at level one, and comes with a random element upon minting.
 
