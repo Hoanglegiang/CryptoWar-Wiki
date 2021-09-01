@@ -2,11 +2,11 @@
 
 Each character starts out at level one, requiring experience attained through successful combat to increase.
 
-Character levels determine the amount of power they have during combat calculations, and in turn determines the Xweapon payout on victories.
+Character levels determine the amount of power they have during combat calculations, and in turn determines the xBlade payout on victories.
 
 ## Level Milestones
 
-Level milestones are specific points where the character receives a large boost in power, and in turn increases their Xweapon payout.
+Level milestones are specific points where the character receives a large boost in power, and in turn increases their xBlade payout.
 
 Currently milestones occur every ten levels, starting from 11 then 21, 31, 41, etc.
 
