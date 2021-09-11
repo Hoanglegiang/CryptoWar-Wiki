@@ -30,7 +30,7 @@ The peer-to-peer marketplace for BSC-based NFTs collectibles and in-game items
 
 ## Vision
 
-Our vision is creating a game that has good graphic, easy to play and help to develop the ecosystem of XBN. We would continously improve CryptoWar to catch the trend of NFT play- to-earn market.
+Our vision is creating a game that has good graphic, SUSTAINABLE ECONOMY for players, easy to play and help to develop the ecosystem of XBN. We would continously improve CryptoWar to catch the trend of NFT play- to-earn market and eventually evolve into metaverse-gaming world.
 
 ## Objective
 
@@ -39,6 +39,7 @@ Our objective is to provide a fun and profitable experience for our players, and
 ## Play to Earn
 
 CryptoWar utilizes a Play-to-Earn model by distributing xBlade through gameplay, and giving value to player NFTs by increasing their use through future features.
+Through experience in tokenomics and smart contract we optimize CryptoWar to avoid arbitrage and inflation to keep value of xBlade to grow sustainably.
 
 NFTs may be freely traded on the marketplace for xBlade tokens, which can then be traded on exchanges or converted to fiat currency. We will create rare and ultra-rare NFTs that worth collecting and highly valueable. At different point 6 months , 12 months and 18 months, XBN.finance will buy back rare NFTs to display in our Hall of fames
 
